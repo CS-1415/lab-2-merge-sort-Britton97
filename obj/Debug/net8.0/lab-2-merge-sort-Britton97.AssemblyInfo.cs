@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-2-merge-sort-Britton97")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d130e6da35ad252f9e81123da0178266f6741c96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9984795f1235fed1b9e9de7c27c474a4788b8444")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-2-merge-sort-Britton97")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-2-merge-sort-Britton97")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
